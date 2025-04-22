@@ -1,3 +1,6 @@
+console.log("");
+
+
 import Admin from '../models/admin.model.js';
 import { adminValidator } from '../utils/admin.validation.js';
 import { catchError } from '../utils/error-response.js';
